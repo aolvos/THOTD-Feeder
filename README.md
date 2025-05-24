@@ -4,14 +4,14 @@ vJoy feeder, which allows to play The House of the Dead (PC, 1996) with two mice
 This tiny (~42Kb) application expands original multiplayer capabilities of THOTD using virtual joystick interface.
 
 # Requirements
-[+] vJoy needs to be installed. (https://sourceforge.net/projects/vjoystick/)\n
-[+] 2 Virtual devices (#0 & #1) must be created.
-[+] Game must be configured to use Joystick1 and Joystick2 as HID.
-[+] Two mice and running instance of feeder.
+[+] vJoy needs to be installed. (https://sourceforge.net/projects/vjoystick/)  
+[+] 2 Virtual devices (#0 & #1) must be created.  
+[+] Game must be configured to use Joystick1 and Joystick2 as HID.  
+[+] Two mice and running instance of feeder.  
 
 # Configuration
-Run "feeder.exe set MOUSE_1_DPI MOUSE_2_DPI" to create configuration with chosen mice DPI.
-Example: feeder.exe set 32 64
+Run "feeder.exe set MOUSE_1_DPI MOUSE_2_DPI" to create configuration with chosen mice DPI.  
+Example: feeder.exe set 32 64  
 
 Run "feeder.exe debug" to see raw mouse delta-coordinates.
 
