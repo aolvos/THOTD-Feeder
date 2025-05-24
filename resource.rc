@@ -1,0 +1,4 @@
+#include "resource.h"
+
+icon   ICON     "icon.ico"
+banner BITMAP   "res/logo.bmp"
