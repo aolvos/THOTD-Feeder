@@ -1,5 +1,5 @@
 # THOTD-Feeder
-vJoy feeder, which allows to play The House of the Dead (PC, 1998) with two mice simultaneously.
+vJoy feeder, which allows to play The House of the Dead (PC, 1996) with two mice simultaneously.
 
 This tiny (~42Kb) application expands original multiplayer capabilities of THOTD using virtual joystick interface.
 
