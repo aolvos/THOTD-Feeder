@@ -5,7 +5,7 @@ This tiny (~42Kb) application expands original multiplayer capabilities of THOTD
 
 # Requirements
 [+] vJoy needs to be installed. (https://sourceforge.net/projects/vjoystick/)  
-[+] 2 Virtual devices (#0 & #1) must be created.  
+[+] 2 Virtual devices (#1 & #2) must be created.  
 [+] Game must be configured to use Joystick1 and Joystick2 as HID.  
 [+] Two mice and running instance of feeder.  
 
